@@ -1,7 +1,7 @@
-const axios = require('axios')
+// const axios = require('axios')
 const circularJson = require('circular-json')
 const fs = require('fs')
-const phantom = require('phantom')
+const phantom = require('phantomjs')
 
 let baseUrl = 'https://www.douban.com/group/gz020/discussion'
 
