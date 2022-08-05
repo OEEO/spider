@@ -24,7 +24,7 @@
     "express": "^4.16.3",
     "iconv-lite": "^0.4.23",
     "json2csv": "^4.2.1",
-    "mongoose": "^5.1.2",
+    "mongoose": "^5.7.5",
     "superagent": "^3.8.3",
     "ya-csv": "^0.10.1"
   }
